@@ -10,4 +10,11 @@ Accept: application/json
 
 ###
 
+# check env with spring actuator
+GET http://localhost:8080/actuator/env
+Accept: application/json
+
+###
+
+
 
