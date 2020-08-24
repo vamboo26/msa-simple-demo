@@ -12,6 +12,7 @@
   <description>Demo project for Spring Boot</description>
 
   <modules>
+    <module>config-server</module>
     <module>licensing-service</module>
   </modules>
 
