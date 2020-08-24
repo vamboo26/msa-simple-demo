@@ -6,7 +6,7 @@
   <groupId>io.zingoworks</groupId>
   <artifactId>msa-simple-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
 
   <name>msa-simple-demo</name>
   <description>Demo project for Spring Boot</description>
