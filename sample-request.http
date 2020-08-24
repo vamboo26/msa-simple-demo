@@ -1,4 +1,13 @@
+# get configurations from github repo
+GET http://localhost:8888/licensingservice/prod
+Accept: application/json
+
+###
+
+# check spring actuator
 GET http://localhost:8080/actuator
 Accept: application/json
 
 ###
+
+
